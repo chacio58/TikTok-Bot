@@ -169,7 +169,7 @@ I am not responsible for any damage of any kind for using this script''' + Fore.
 if __name__ == '__main__':
     banner()
 
-    vidUrl = input("Your Video URL : ")
+    vidUrl = input("https://vm.tiktok.com/ZMLaSowDc/?k=1 : ")
     print("")
     bot = int(input("What do you want to do? \n1 - Get Views \n2 - Get Followers \n3 - Get Shares \n4 - Get Likes \n5 - Get Comments Likes \nPlease insert a number from the list : "))
     print("\n--------------------------------------")
